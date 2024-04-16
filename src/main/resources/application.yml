@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+token-client:
+  urls:
+    base-url: https://devtrials.us.auth0.com
+    post-token-url: /oauth/token
+
+credential-client:
+  client-id:
